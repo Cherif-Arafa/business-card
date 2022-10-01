@@ -1,0 +1,45 @@
+body{
+  margin:20px;
+ 
+}
+
+.card{
+  width: 400px;
+  padding: 40px;
+  margin: 20px auto;
+
+background: aliceblue;
+border-color: aqua;
+border-style: ridge;
+border-radius: 5%;
+display: flex;
+justify-content: space-around;
+
+
+}
+
+.avatar{
+width: 150px;
+border-style: groove;
+
+}
+
+
+.carddata{
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  color: crimson;
+  background-color: aquamarine;
+  border-color: burlywood;
+  border-top-right-radius: 5%;
+  border-bottom-left-radius: 5%;
+  text-shadow: 20%;
+ }
+.carddata:hover{
+  color: indigo;
+  }
+
+
+.border{
+  border: 10px dotted dodgerblue;
+}
